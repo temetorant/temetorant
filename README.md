@@ -1,7 +1,7 @@
 
 <!-- カスタム背景画像のヘッダー -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/temetorant/temetorant/main/assets/cyber_bg.png" width="100%" alt="cyber-header" />
+  <img src="https://github.com/temetorant/temetorant/blob/main/cyber_bg.png" width="100%" alt="cyber-header" />
 </p>
 
 
