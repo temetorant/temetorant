@@ -1,13 +1,13 @@
 
 <!-- ヘッダー画像（あとで画像の差し替え予定） -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=temetorant's%20GitHub&fontSize=40&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&reversal=true&height=250&section=header&text=temetorant's%20GitHub&fontSize=45&fontAlign=40&fontAlignY=30&animation=twinkling" alt="header" />
 </p>
 
 
 <!-- タイピング風タイトル -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=26E10B&center=true&vCenter=true&width=435&lines=Welcome+to+My+GitHub!;Java+%2F+HTML%2FCSS%2F+SQL+learner;Now+learning+JavaScript..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Consolas&pause=1000&color=26E10B&center=true&vCenter=true&width=500&lines=Welcome+to+My+GitHub!;Java+%2F+HTML%2FCSS%2F+SQL+learner;Now+learning+JavaScript...&size=30" alt="Typing SVG" />
 </p>
 
 <!-- プロフィールカード & トロフィー -->
@@ -39,13 +39,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=temetorant&theme=github-compact" />
 </p>
 
-<!-- リンクバッジ（Qiitaなど追加予定） -->
+<!-- リンクバッジ（Qiitaなど追加） -->
 <p align="center">
-  <a href="https://github.com/temetorant"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/temetorant">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://qiita.com/temetorant">
+    <img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" />
+  </a>
 </p>
 
-<!-- 署名風エンディング -->
+<!-- エンディング -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks+for+visiting!&fontSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&text=Thanks+for+visiting!&fontSize=36&fontColor=ffffff&animation=twinkling" />
 </p>
 
