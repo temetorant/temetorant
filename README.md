@@ -1,7 +1,9 @@
-<!-- ヘッダー画像（あとで画像の差し替え予定） -->
+
+<!-- カスタム背景画像のヘッダー -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=temetorant's%20GitHub&fontSize=40&animation=fadeIn" alt="header" />
+  <img src="https://raw.githubusercontent.com/temetorant/temetorant/main/assets/cyber_bg.png" width="100%" alt="cyber-header" />
 </p>
+
 
 <!-- タイピング風タイトル -->
 <p align="center">
